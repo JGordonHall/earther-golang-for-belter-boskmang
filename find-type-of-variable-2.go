@@ -1,3 +1,4 @@
+// Using %T to find the type of a variable
 package main
 
 import (
