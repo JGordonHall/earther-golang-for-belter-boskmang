@@ -1,3 +1,4 @@
+/*
 package main
 
 import (
@@ -19,3 +20,4 @@ func main() {
 	fmt.Println("b: ", b)
 
 }
+*\
